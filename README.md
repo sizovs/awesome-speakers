@@ -894,6 +894,16 @@ https://twitter.com/granze
 Topics: React, JavaScript, Flow, Web Architectures, Frontend Ops\
 https://twitter.com/cef62
 
+## Latvia 🇱🇻
+
+### Riga
+
+<img src="https://twitter-avatar.now.sh/eduardsi" height="70px" width="70px" align="left" alt="" />
+
+**Eduards Sizovs**\
+Topics: Technical Leadership, Soft Skills, Career, Hiring, Coding\
+https://twitter.com/eduardsi
+
 ## Netherlands 🇳🇱
 
 ### Amsterdam
